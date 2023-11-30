@@ -1,0 +1,2 @@
+{"Id":1,"Title":"Aventures de maxime","Author":{"Id":1,"Name":"Maxime","Biography":"Biographie par d\u00E9faut","BooksWritten":[]},"Category":{"Id":1,"Name":"Aventure","Description":"Description par d\u00E9faut","Books":[]},"Language":"FR","PublishDate":"2023-10-12T00:00:00"}
+{"Id":1,"Title":"Test","Author":{"Id":1,"Name":"Test","Biography":"Biographie par d\u00E9faut","BooksWritten":[]},"Category":{"Id":1,"Name":"Aventure","Description":"Description par d\u00E9faut","Books":[]},"Language":"FR","PublishDate":"2023-10-10T00:00:00"}

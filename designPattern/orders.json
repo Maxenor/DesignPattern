@@ -1,0 +1,1 @@
+{"Id":0,"Customer":{"Id":1,"Name":"1","Address":"Adresse du client","Loans":[],"FavoriteAuthors":[]},"BooksOrdered":{"2":1},"DeliveryAddress":"Adresse de livraison","PaymentStrategy":null,"AmountDue":0}
